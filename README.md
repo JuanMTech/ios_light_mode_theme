@@ -17,11 +17,11 @@ A Home Assistant theme inspired on the iOS light mode interface.
 
 ### Screenshots
 
-![iOS Light Mode 1]()<br />
+![iOS Light Mode 1](https://raw.githubusercontent.com/JuanMTech/ios_light_mode_theme/master/images/iOS%20Light%20Mode%201.jpg)<br />
 <br />
-![iOS Light Mode 2]()<br />
+![iOS Light Mode 2](https://raw.githubusercontent.com/JuanMTech/ios_light_mode_theme/master/images/iOS%20Light%20Mode%202.jpg)<br />
 <br />
-![iOS Light Mode 3]()<br />
+![iOS Light Mode 3](https://raw.githubusercontent.com/JuanMTech/ios_light_mode_theme/master/images/iOS%20Light%20Mode%203.jpg)<br />
 <br />
 
 ### Preparation
