@@ -1,3 +1,7 @@
+# NEW VERSION OF THIS THEME IS AVAILABLE. IT SUPPORTS BOTH LIGHT AND DARK MODE. YOU CAN CHECK THE THEME [HERE](https://github.com/JuanMTech/ios-theme).
+<br />
+<br />
+
 # iOS Light Mode
 
 A Home Assistant theme inspired on the iOS light mode interface.
@@ -19,10 +23,7 @@ A Home Assistant theme inspired on the iOS light mode interface.
 
 ![iOS Light Mode 1](https://raw.githubusercontent.com/JuanMTech/ios_light_mode_theme/master/images/iOS%20Light%20Mode%201.jpg)<br />
 <br />
-![iOS Light Mode 2](https://raw.githubusercontent.com/JuanMTech/ios_light_mode_theme/master/images/iOS%20Light%20Mode%202.jpg)<br />
-<br />
-![iOS Light Mode 3](https://raw.githubusercontent.com/JuanMTech/ios_light_mode_theme/master/images/iOS%20Light%20Mode%203.jpg)<br />
-<br />
+
 
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
@@ -50,20 +51,14 @@ frontend:
 ### Enable theme
 1. Open your Home Assistant **Profile**
 2. Under, **Themes**, select the new **iOS Light Mode** theme
+<br />
+<br />
+<br />
 
-
-### Custom Header settings
-When using the [Custom Header](https://github.com/maykar/custom-header) plugin, add the following to make sure that the header matches the theme.
-
-```
-custom_header:
-  compact_mode: true
-  background: var(--app-header-background-color)
-  elements_color: var(--app-header-text-color)
-  active_tab_color: var(--state-icon-active-color)
-  tab_indicator_color: var(--state-icon-active-color)
-```
-
+# Other available themes
+- [**iOS Theme**](https://github.com/JuanMTech/ios-theme) - Based on the system-wide light and dark mode UI
+- [**Google Theme**](https://github.com/JuanMTech/google-theme) - Based on the Android light and dark interface
+- [**AMOLED Blue**](https://github.com/JuanMTech/amoled_blue) - A true black Home Assistant theme for devices with AMOLED displays
 
 
 [buymeacoffee-shield]: https://i.imgur.com/Hzn2rM8.png
